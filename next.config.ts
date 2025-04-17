@@ -19,7 +19,7 @@ const nextConfig: NextConfig = {
       },
     ],
   },
-  distDir: ".next",
+  distDir: "dist",
 };
 
 export default nextConfig;
